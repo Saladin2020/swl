@@ -1,0 +1,12 @@
+{
+	"ServerList": [
+				{
+					"Info": "Exness-Trail",
+					"HostAddr": "8.215.26.74"
+				},
+				{
+					"Info": "Exness-Trail2",
+					"HostAddr": "8.215.26.74"
+				}
+			]
+}
