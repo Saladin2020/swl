@@ -1,0 +1,12 @@
+{
+	"ServerList": [
+				{
+					"Info": "XM",
+					"HostAddr": "8.215.26.74"
+				},
+				{
+					"Info": "XM2",
+					"HostAddr": "8.215.26.74"
+				}
+			]
+}
